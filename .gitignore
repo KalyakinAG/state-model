@@ -1,0 +1,10 @@
+# IDE
+/.metadata/
+/.settings/
+
+# Binary
+bin
+InfoBases
+tools
+examples
+doc

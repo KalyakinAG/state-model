@@ -12,6 +12,4 @@
   <content>CommonModule.РаботаСМодельюОбъектаКлиентСервер</content>
   <content>CommonModule.РаботаСМодельюФормы</content>
   <content>CommonModule.РаботаСМодельюФормыКлиентСервер</content>
-  <content>CommonModule.РаботаССостоянием</content>
-  <content>CommonModule.РаботаССостояниемКлиентСервер</content>
 </mdclass:Subsystem>

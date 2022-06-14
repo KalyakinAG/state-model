@@ -36,7 +36,5 @@
   <commonModules>CommonModule.РаботаСМодельюОбъектаКлиентСервер</commonModules>
   <commonModules>CommonModule.РаботаСМодельюФормы</commonModules>
   <commonModules>CommonModule.РаботаСМодельюФормыКлиентСервер</commonModules>
-  <commonModules>CommonModule.РаботаССостоянием</commonModules>
-  <commonModules>CommonModule.РаботаССостояниемКлиентСервер</commonModules>
   <dataProcessors>DataProcessor.МодельСостояния</dataProcessors>
 </mdclass:Configuration>
