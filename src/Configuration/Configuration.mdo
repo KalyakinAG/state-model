@@ -18,7 +18,7 @@
   <containedObjects classId="e68182ea-4237-4383-967f-90c1e3370bc7" objectId="a035cfe4-cc7f-4cae-8657-34828093ca2a"/>
   <containedObjects classId="fb282519-d103-4dd3-bc12-cb271d631dfc" objectId="6226ee6a-ae76-4b80-a992-e7cb25bb71fe"/>
   <namePrefix>sm</namePrefix>
-  <configurationExtensionCompatibilityMode>8.3.14</configurationExtensionCompatibilityMode>
+  <configurationExtensionCompatibilityMode>8.3.21</configurationExtensionCompatibilityMode>
   <configurationExtensionPurpose>AddOn</configurationExtensionPurpose>
   <defaultRunMode>ManagedApplication</defaultRunMode>
   <scriptVariant>Russian</scriptVariant>
