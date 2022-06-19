@@ -82,10 +82,18 @@
 	;
 ```
 
+## Диаграмма последовательности MVC
+
 ![Диаграмма последовательности MVC](https://github.com/KalyakinAG/state-model/blob/main/doc/mvc-seq-diagram.svg)
+
+## Модель данных
 
 ![Модель данных](https://github.com/KalyakinAG/state-model/blob/main/doc/data-model.svg)
 
+## Цикл расчета параметров состояния
+
 ![Цикл расчета параметров состояния](https://github.com/KalyakinAG/state-model/blob/main/doc/object-model-calc.svg)
+
+## Цикл расчета элементов формы
 
 ![Цикл расчета элементов формы](https://github.com/KalyakinAG/state-model/blob/main/doc/form-model-calc.svg)
