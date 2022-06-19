@@ -1,0 +1,328 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?><svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" contentStyleType="text/css" height="193px" preserveAspectRatio="none" style="width:490px;height:193px;background:#FFFFFF;" version="1.1" viewBox="0 0 490 193" width="490px" zoomAndPan="magnify"><defs/><g><line style="stroke:#CC0033;stroke-width:0.5;stroke-dasharray:5.0,5.0;" x1="60" x2="60" y1="60.6608" y2="134.2702"/><line style="stroke:#CC0033;stroke-width:0.5;stroke-dasharray:5.0,5.0;" x1="230.5" x2="230.5" y1="60.6608" y2="134.2702"/><line style="stroke:#CC0033;stroke-width:0.5;stroke-dasharray:5.0,5.0;" x1="409.5" x2="409.5" y1="60.6608" y2="134.2702"/><rect fill="#CCCCCC" height="54.6608" rx="2.5" ry="2.5" style="stroke:#AAAAAA;stroke-width:0.5;" width="110" x="5" y="5"/><text fill="#000000" font-family="Verdana" font-size="15" font-weight="bold" lengthAdjust="spacing" textLength="96" x="12" y="25.9233">Контролер</text><line style="stroke:#AAAAAA;stroke-width:1.0;" x1="5" x2="115" y1="34.4609" y2="34.4609"/><text fill="#000000" font-family="monospace" font-size="11" lengthAdjust="spacing" textLength="70" x="25" y="49.6469">Controller</text><rect fill="#CCCCCC" height="54.6608" rx="2.5" ry="2.5" style="stroke:#AAAAAA;stroke-width:0.5;" width="110" x="5" y="133.2702"/><text fill="#000000" font-family="Verdana" font-size="15" font-weight="bold" lengthAdjust="spacing" textLength="96" x="12" y="154.1936">Контролер</text><line style="stroke:#AAAAAA;stroke-width:1.0;" x1="5" x2="115" y1="162.7312" y2="162.7312"/><text fill="#000000" font-family="monospace" font-size="11" lengthAdjust="spacing" textLength="70" x="25" y="177.9171">Controller</text><rect fill="#CCCCCC" height="54.6608" rx="2.5" ry="2.5" style="stroke:#AAAAAA;stroke-width:0.5;" width="161" x="150.5" y="5"/><text fill="#000000" font-family="Verdana" font-size="15" font-weight="bold" lengthAdjust="spacing" textLength="147" x="157.5" y="25.9233">Модель объекта</text><line style="stroke:#AAAAAA;stroke-width:1.0;" x1="150.5" x2="311.5" y1="34.4609" y2="34.4609"/><text fill="#000000" font-family="monospace" font-size="11" lengthAdjust="spacing" textLength="35" x="213.5" y="49.6469">Model</text><rect fill="#CCCCCC" height="54.6608" rx="2.5" ry="2.5" style="stroke:#AAAAAA;stroke-width:0.5;" width="161" x="150.5" y="133.2702"/><text fill="#000000" font-family="Verdana" font-size="15" font-weight="bold" lengthAdjust="spacing" textLength="147" x="157.5" y="154.1936">Модель объекта</text><line style="stroke:#AAAAAA;stroke-width:1.0;" x1="150.5" x2="311.5" y1="162.7312" y2="162.7312"/><text fill="#000000" font-family="monospace" font-size="11" lengthAdjust="spacing" textLength="35" x="213.5" y="177.9171">Model</text><rect fill="#CCCCCC" height="54.6608" rx="2.5" ry="2.5" style="stroke:#AAAAAA;stroke-width:0.5;" width="147" x="336.5" y="5"/><text fill="#000000" font-family="Verdana" font-size="15" font-weight="bold" lengthAdjust="spacing" textLength="133" x="343.5" y="25.9233">Модель формы</text><line style="stroke:#AAAAAA;stroke-width:1.0;" x1="336.5" x2="483.5" y1="34.4609" y2="34.4609"/><text fill="#000000" font-family="monospace" font-size="11" lengthAdjust="spacing" textLength="28" x="396" y="49.6469">View</text><rect fill="#CCCCCC" height="54.6608" rx="2.5" ry="2.5" style="stroke:#AAAAAA;stroke-width:0.5;" width="147" x="336.5" y="133.2702"/><text fill="#000000" font-family="Verdana" font-size="15" font-weight="bold" lengthAdjust="spacing" textLength="133" x="343.5" y="154.1936">Модель формы</text><line style="stroke:#AAAAAA;stroke-width:1.0;" x1="336.5" x2="483.5" y1="162.7312" y2="162.7312"/><text fill="#000000" font-family="monospace" font-size="11" lengthAdjust="spacing" textLength="28" x="396" y="177.9171">View</text><polygon fill="#000000" points="219,85.4655,229,89.4655,219,93.4655,223,89.4655" style="stroke:#000000;stroke-width:1.0;"/><line style="stroke:#000000;stroke-width:1.0;" x1="60" x2="225" y1="89.4655" y2="89.4655"/><text fill="#333333" font-family="Verdana" font-size="11" lengthAdjust="spacing" textLength="147" x="67" y="84.8713">Измененные параметры</text><polygon fill="#000000" points="398,112.2702,408,116.2702,398,120.2702,402,116.2702" style="stroke:#000000;stroke-width:1.0;"/><line style="stroke:#000000;stroke-width:1.0;" x1="231" x2="404" y1="116.2702" y2="116.2702"/><text fill="#333333" font-family="Verdana" font-size="11" lengthAdjust="spacing" textLength="155" x="238" y="111.676">Рассчитанные параметры</text><!--MD5=[37f05fafe6873efd4a20825c7d29e394]
+@startuml
+!theme reddress-lightred
+participant Контролер [
+    =Контролер
+    - - - -
+    ""Controller""
+]
+participant МодельОбъекта [
+    =Модель объекта
+    - - - -
+    ""Model""
+]
+participant МодельФормы [
+    =Модель формы
+    - - - -
+    ""View""
+]
+Контролер -> МодельОбъекта: Измененные параметры
+МодельОбъекта -> МодельФормы: Рассчитанные параметры
+@enduml
+
+@startuml
+
+
+
+skinparam stereotypeCBackgroundColor AA0033
+skinparam backgroundColor fff
+
+
+
+
+
+
+
+skinparam circledCharacter {
+  radius 8
+  fontSize 11
+  fontName Verdana
+}
+
+skinparam class {
+    backgroundColor ccc
+  borderColor aaa
+    fontColor 000
+  fontName Verdana
+  fontSize 11
+  stereotypeFontColor 333
+  stereotypeFontSize 11
+    arrowColor 000
+  arrowFontName Verdana
+  arrowFontColor 333
+  arrowFontSize 11
+
+  attributeFontColor 333
+  attributeFontSize 11
+  attributeIconSize 11
+}
+
+
+skinparam actor {
+    backgroundColor CC0033
+  borderColor AA0033
+    fontColor 000
+  fontName Verdana
+  fontSize 11
+  stereotypeFontColor 333
+  stereotypeFontSize 11
+}
+
+skinparam participant {
+    backgroundColor ccc
+  borderColor aaa
+    fontColor 000
+  fontName Verdana
+  fontSize 11
+  stereotypeFontColor 333
+  stereotypeFontSize 11
+}
+
+skinparam collections {
+    backgroundColor ccc
+  borderColor aaa
+    fontColor 000
+  fontName Verdana
+  fontSize 11
+  stereotypeFontColor 333
+  stereotypeFontSize 11
+}
+
+skinparam SequenceBox{
+    backgroundColor e0e0e0
+  borderColor cccccc
+    fontColor 000
+  fontName Verdana
+  fontSize 11
+  stereotypeFontColor 333
+  stereotypeFontSize 11
+}
+
+
+skinparam interface {
+    backgroundColor CC0033
+  borderColor AA0033
+    fontColor 000
+  fontName Verdana
+  fontSize 11
+  stereotypeFontColor 333
+  stereotypeFontSize 11
+}
+
+skinparam component {
+    backgroundColor ccc
+  borderColor aaa
+    fontColor 000
+  fontName Verdana
+  fontSize 11
+  stereotypeFontColor 333
+  stereotypeFontSize 11
+}
+
+skinparam node {
+    backgroundColor ccc
+  borderColor aaa
+    fontColor 000
+  fontName Verdana
+  fontSize 11
+  stereotypeFontColor 333
+  stereotypeFontSize 11
+}
+
+skinparam database {
+    backgroundColor ccc
+  borderColor aaa
+    fontColor 000
+  fontName Verdana
+  fontSize 11
+  stereotypeFontColor 333
+  stereotypeFontSize 11
+}
+
+skinparam queue {
+    backgroundColor ccc
+  borderColor aaa
+    fontColor 000
+  fontName Verdana
+  fontSize 11
+  stereotypeFontColor 333
+  stereotypeFontSize 11
+}
+
+
+skinparam usecase {
+    backgroundColor ccc
+  borderColor aaa
+    fontColor 000
+  fontName Verdana
+  fontSize 11
+  stereotypeFontColor 333
+  stereotypeFontSize 11
+    arrowColor 000
+  arrowFontName Verdana
+  arrowFontColor 333
+  arrowFontSize 11
+}
+
+skinparam activity {
+    backgroundColor ccc
+  borderColor aaa
+    fontColor 000
+  fontName Verdana
+  fontSize 11
+  stereotypeFontColor 333
+  stereotypeFontSize 11
+    arrowColor 000
+  arrowFontName Verdana
+  arrowFontColor 333
+  arrowFontSize 11
+}
+
+skinparam sequence {
+    fontColor 000
+  fontName Verdana
+  fontSize 11
+  stereotypeFontColor 333
+  stereotypeFontSize 11
+    arrowColor 000
+  arrowFontName Verdana
+  arrowFontColor 333
+  arrowFontSize 11
+
+  lifeLineBorderColor CC0033
+  lifeLineBackgroundColor e0e0e0
+}
+
+skinparam boundary {
+    backgroundColor CC0033
+  borderColor AA0033
+    fontColor 000
+  fontName Verdana
+  fontSize 11
+  stereotypeFontColor 333
+  stereotypeFontSize 11
+}
+
+skinparam control {
+    backgroundColor CC0033
+  borderColor AA0033
+    fontColor 000
+  fontName Verdana
+  fontSize 11
+  stereotypeFontColor 333
+  stereotypeFontSize 11
+}
+
+skinparam entity {
+    backgroundColor CC0033
+  borderColor AA0033
+    fontColor 000
+  fontName Verdana
+  fontSize 11
+  stereotypeFontColor 333
+  stereotypeFontSize 11
+}
+
+
+skinparam state {
+    backgroundColor ccc
+  borderColor aaa
+    fontColor 000
+  fontName Verdana
+  fontSize 11
+  stereotypeFontColor 333
+  stereotypeFontSize 11
+    arrowColor 000
+  arrowFontName Verdana
+  arrowFontColor 333
+  arrowFontSize 11
+  startColor CC0033
+  endColor AA0033
+}
+
+
+skinparam object {
+    backgroundColor ccc
+  borderColor aaa
+    fontColor 000
+  fontName Verdana
+  fontSize 11
+  stereotypeFontColor 333
+  stereotypeFontSize 11
+    arrowColor 000
+  arrowFontName Verdana
+  arrowFontColor 333
+  arrowFontSize 11
+}
+
+
+skinparam note {
+    backgroundColor CC0033
+  borderColor AA0033
+    fontColor 000
+  fontName Verdana
+  fontSize 11
+  stereotypeFontColor 333
+  stereotypeFontSize 11
+}
+
+skinparam cloud {
+    backgroundColor ccc
+  borderColor aaa
+    fontColor 000
+  fontName Verdana
+  fontSize 11
+  stereotypeFontColor 333
+  stereotypeFontSize 11
+    arrowColor 000
+  arrowFontName Verdana
+  arrowFontColor 333
+  arrowFontSize 11
+}
+
+skinparam rectangle {
+    backgroundColor ccc
+  borderColor aaa
+    fontColor 000
+  fontName Verdana
+  fontSize 11
+  stereotypeFontColor 333
+  stereotypeFontSize 11
+}
+
+skinparam storage {
+    backgroundColor ccc
+  borderColor aaa
+    fontColor 000
+  fontName Verdana
+  fontSize 11
+  stereotypeFontColor 333
+  stereotypeFontSize 11
+}
+participant Контролер [
+    =Контролер
+    - - - -
+    ""Controller""
+]
+participant МодельОбъекта [
+    =Модель объекта
+    - - - -
+    ""Model""
+]
+participant МодельФормы [
+    =Модель формы
+    - - - -
+    ""View""
+]
+Контролер -> МодельОбъекта: Измененные параметры
+МодельОбъекта -> МодельФормы: Рассчитанные параметры
+@enduml
+
+PlantUML version 1.2022.6beta5(Unknown compile time)
+(GPL source distribution)
+Java Runtime: Java(TM) SE Runtime Environment
+JVM: Java HotSpot(TM) 64-Bit Server VM
+Default Encoding: UTF-8
+Language: en
+Country: US
+--></g></svg>

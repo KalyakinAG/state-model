@@ -1,0 +1,354 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?><svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" contentStyleType="text/css" height="611px" preserveAspectRatio="none" style="width:467px;height:611px;background:#FFFFFF;" version="1.1" viewBox="0 0 467 611" width="467px" zoomAndPan="magnify"><defs/><g><ellipse cx="172.5" cy="20" fill="#222222" rx="10" ry="10" style="stroke:#222222;stroke-width:1.0;"/><rect fill="#CCCCCC" height="32.8047" rx="12.5" ry="12.5" style="stroke:#AAAAAA;stroke-width:0.5;" width="175" x="85" y="50"/><text fill="#000000" font-family="Verdana" font-size="11" lengthAdjust="spacing" textLength="155" x="95" y="70.2104">Рассчитанные параметры</text><rect fill="#CCCCCC" height="45.6094" rx="12.5" ry="12.5" style="stroke:#AAAAAA;stroke-width:0.5;" width="194" x="75.5" y="124.2036"/><text fill="#000000" font-family="Verdana" font-size="11" lengthAdjust="spacing" textLength="170" x="85.5" y="144.4141">Найти зависимые элементы</text><text fill="#000000" font-family="Verdana" font-size="11" lengthAdjust="spacing" textLength="125" x="85.5" y="157.2188">формы или свойства</text><rect fill="#CCCCCC" height="32.8047" rx="12.5" ry="12.5" style="stroke:#AAAAAA;stroke-width:0.5;" width="201" x="72" y="293.626"/><text fill="#000000" font-family="Verdana" font-size="11" lengthAdjust="spacing" textLength="181" x="82" y="313.8364">Выбрать элемент по порядку</text><polygon fill="#CCCCCC" points="129.5,393.439,215.5,393.439,227.5,405.439,215.5,417.439,129.5,417.439,117.5,405.439,129.5,393.439" style="stroke:#AAAAAA;stroke-width:0.5;"/><text fill="#000000" font-family="Verdana" font-size="11" lengthAdjust="spacing" textLength="86" x="129.5" y="409.2471">Это свойство?</text><text fill="#333333" font-family="Verdana" font-size="11" lengthAdjust="spacing" textLength="16" x="101.5" y="402.8447">Да</text><text fill="#333333" font-family="Verdana" font-size="11" lengthAdjust="spacing" textLength="23" x="227.5" y="402.8447">Нет</text><rect fill="#CCCCCC" height="45.6094" rx="12.5" ry="12.5" style="stroke:#AAAAAA;stroke-width:0.5;" width="135" x="11" y="427.439"/><text fill="#000000" font-family="Verdana" font-size="11" lengthAdjust="spacing" textLength="69" x="21" y="447.6494">Установить</text><text fill="#000000" font-family="Verdana" font-size="11" lengthAdjust="spacing" textLength="115" x="21" y="460.4541">значение свойства</text><rect fill="#CCCCCC" height="45.6094" rx="12.5" ry="12.5" style="stroke:#AAAAAA;stroke-width:0.5;" width="201" x="166" y="427.439"/><text fill="#000000" font-family="Verdana" font-size="11" lengthAdjust="spacing" textLength="120" x="176" y="447.6494">Определить состав</text><text fill="#000000" font-family="Verdana" font-size="11" lengthAdjust="spacing" textLength="181" x="176" y="460.4541">и значения свойств элемента</text><polygon fill="#CCCCCC" points="172.5,479.0483,184.5,491.0483,172.5,503.0483,160.5,491.0483,172.5,479.0483" style="stroke:#AAAAAA;stroke-width:0.5;"/><text fill="#333333" font-family="Verdana" font-size="11" lengthAdjust="spacing" textLength="99" x="43.5" y="475.6494">Не все свойства</text><text fill="#333333" font-family="Verdana" font-size="11" lengthAdjust="spacing" textLength="117" x="43.5" y="488.4541">можно установить!</text><polygon fill="#CCCCCC" points="172.5,249.626,184.5,261.626,172.5,273.626,160.5,261.626,172.5,249.626" style="stroke:#AAAAAA;stroke-width:0.5;"/><polygon fill="#CCCCCC" points="105,523.0483,240,523.0483,252,535.0483,240,547.0483,105,547.0483,93,535.0483,105,523.0483" style="stroke:#AAAAAA;stroke-width:0.5;"/><text fill="#333333" font-family="Verdana" font-size="11" lengthAdjust="spacing" textLength="22" x="176.5" y="557.2588">нет</text><text fill="#000000" font-family="Verdana" font-size="11" lengthAdjust="spacing" textLength="135" x="105" y="538.8564">Следующий элемент?</text><text fill="#333333" font-family="Verdana" font-size="11" lengthAdjust="spacing" textLength="16" x="252" y="532.4541">да</text><ellipse cx="172.5" cy="589.7588" rx="11" ry="11" style="stroke:#222222;stroke-width:1.0;fill:none;"/><ellipse cx="172.5" cy="589.7588" fill="#222222" rx="6" ry="6" style="stroke:#111111;stroke-width:1.0;"/><line style="stroke:#000000;stroke-width:1.0;" x1="172.5" x2="172.5" y1="30" y2="50"/><polygon fill="#000000" points="168.5,40,172.5,50,176.5,40,172.5,44" style="stroke:#000000;stroke-width:1.0;"/><line style="stroke:#000000;stroke-width:1.0;" x1="172.5" x2="172.5" y1="82.8047" y2="124.2036"/><polygon fill="#000000" points="168.5,114.2036,172.5,124.2036,176.5,114.2036,172.5,118.2036" style="stroke:#000000;stroke-width:1.0;"/><text fill="#333333" font-family="Verdana" font-size="11" lengthAdjust="spacing" textLength="215" x="176.5" y="104.1094">Результат работы модели объекта</text><line style="stroke:#000000;stroke-width:1.0;" x1="117.5" x2="78.5" y1="405.439" y2="405.439"/><line style="stroke:#000000;stroke-width:1.0;" x1="78.5" x2="78.5" y1="405.439" y2="427.439"/><polygon fill="#000000" points="74.5,417.439,78.5,427.439,82.5,417.439,78.5,421.439" style="stroke:#000000;stroke-width:1.0;"/><line style="stroke:#000000;stroke-width:1.0;" x1="227.5" x2="266.5" y1="405.439" y2="405.439"/><line style="stroke:#000000;stroke-width:1.0;" x1="266.5" x2="266.5" y1="405.439" y2="427.439"/><polygon fill="#000000" points="262.5,417.439,266.5,427.439,270.5,417.439,266.5,421.439" style="stroke:#000000;stroke-width:1.0;"/><line style="stroke:#000000;stroke-width:1.0;" x1="78.5" x2="78.5" y1="473.0483" y2="491.0483"/><line style="stroke:#000000;stroke-width:1.0;" x1="78.5" x2="160.5" y1="491.0483" y2="491.0483"/><polygon fill="#000000" points="150.5,487.0483,160.5,491.0483,150.5,495.0483,154.5,491.0483" style="stroke:#000000;stroke-width:1.0;"/><line style="stroke:#000000;stroke-width:1.0;" x1="266.5" x2="266.5" y1="473.0483" y2="491.0483"/><line style="stroke:#000000;stroke-width:1.0;" x1="266.5" x2="184.5" y1="491.0483" y2="491.0483"/><polygon fill="#000000" points="194.5,487.0483,184.5,491.0483,194.5,495.0483,190.5,491.0483" style="stroke:#000000;stroke-width:1.0;"/><line style="stroke:#000000;stroke-width:1.0;" x1="172.5" x2="172.5" y1="326.4307" y2="393.439"/><polygon fill="#000000" points="168.5,383.439,172.5,393.439,176.5,383.439,172.5,387.439" style="stroke:#000000;stroke-width:1.0;"/><text fill="#333333" font-family="Verdana" font-size="11" lengthAdjust="spacing" textLength="253" x="176.5" y="347.7354">Порядок элемента может определяться,</text><text fill="#333333" font-family="Verdana" font-size="11" lengthAdjust="spacing" textLength="132" x="176.5" y="360.54">если элемент входит</text><text fill="#333333" font-family="Verdana" font-size="11" lengthAdjust="spacing" textLength="156" x="176.5" y="373.3447">в различные группировки</text><line style="stroke:#000000;stroke-width:1.0;" x1="172.5" x2="172.5" y1="273.626" y2="293.626"/><polygon fill="#000000" points="168.5,283.626,172.5,293.626,176.5,283.626,172.5,287.626" style="stroke:#000000;stroke-width:1.0;"/><line style="stroke:#000000;stroke-width:1.0;" x1="252" x2="441.5" y1="535.0483" y2="535.0483"/><polygon fill="#000000" points="437.5,405.1343,441.5,395.1343,445.5,405.1343,441.5,401.1343" style="stroke:#000000;stroke-width:1.0;"/><line style="stroke:#000000;stroke-width:1.0;" x1="441.5" x2="441.5" y1="261.626" y2="535.0483"/><line style="stroke:#000000;stroke-width:1.0;" x1="441.5" x2="184.5" y1="261.626" y2="261.626"/><polygon fill="#000000" points="194.5,257.626,184.5,261.626,194.5,265.626,190.5,261.626" style="stroke:#000000;stroke-width:1.0;"/><line style="stroke:#000000;stroke-width:1.0;" x1="172.5" x2="172.5" y1="503.0483" y2="523.0483"/><polygon fill="#000000" points="168.5,513.0483,172.5,523.0483,176.5,513.0483,172.5,517.0483" style="stroke:#000000;stroke-width:1.0;"/><line style="stroke:#000000;stroke-width:1.0;" x1="172.5" x2="172.5" y1="169.813" y2="249.626"/><polygon fill="#000000" points="168.5,239.626,172.5,249.626,176.5,239.626,172.5,243.626" style="stroke:#000000;stroke-width:1.0;"/><text fill="#333333" font-family="Verdana" font-size="11" lengthAdjust="spacing" textLength="168" x="176.5" y="191.1177">Зависимость определяется</text><text fill="#333333" font-family="Verdana" font-size="11" lengthAdjust="spacing" textLength="221" x="176.5" y="203.9224">как составом входящих параметров</text><text fill="#333333" font-family="Verdana" font-size="11" lengthAdjust="spacing" textLength="244" x="176.5" y="216.7271">функции состояния, так и параметрами,</text><text fill="#333333" font-family="Verdana" font-size="11" lengthAdjust="spacing" textLength="276" x="176.5" y="229.5317">определяющими значения свойств элемента</text><line style="stroke:#000000;stroke-width:1.0;" x1="172.5" x2="172.5" y1="547.0483" y2="578.7588"/><polygon fill="#000000" points="168.5,568.7588,172.5,578.7588,176.5,568.7588,172.5,572.7588" style="stroke:#000000;stroke-width:1.0;"/><!--MD5=[b5b3864e4317d1a3d876206ef0b86168]
+@startuml
+!theme reddress-lightred
+
+start
+	:Рассчитанные параметры;
+  -> Результат работы модели объекта;
+
+  :Найти зависимые элементы \nформы или свойства;
+  -> Зависимость определяется 
+  как составом входящих параметров
+  функции состояния, так и параметрами, 
+  определяющими значения свойств элемента;
+
+repeat
+  :Выбрать элемент по порядку;
+  -> Порядок элемента может определяться,
+  если элемент входит 
+  в различные группировки;
+    if (Это свойство?) then (Да)
+      :Установить \nзначение свойства;
+	  -> Не все свойства 
+	  можно установить!;
+
+    else (Нет)
+	  :Определить состав \nи значения свойств элемента;
+    endif
+
+    ->;
+
+repeat while (Следующий элемент?) is (да) not (нет)
+
+stop
+@enduml
+
+@startuml
+
+
+
+skinparam stereotypeCBackgroundColor AA0033
+skinparam backgroundColor fff
+
+
+
+
+
+
+
+skinparam circledCharacter {
+  radius 8
+  fontSize 11
+  fontName Verdana
+}
+
+skinparam class {
+    backgroundColor ccc
+  borderColor aaa
+    fontColor 000
+  fontName Verdana
+  fontSize 11
+  stereotypeFontColor 333
+  stereotypeFontSize 11
+    arrowColor 000
+  arrowFontName Verdana
+  arrowFontColor 333
+  arrowFontSize 11
+
+  attributeFontColor 333
+  attributeFontSize 11
+  attributeIconSize 11
+}
+
+
+skinparam actor {
+    backgroundColor CC0033
+  borderColor AA0033
+    fontColor 000
+  fontName Verdana
+  fontSize 11
+  stereotypeFontColor 333
+  stereotypeFontSize 11
+}
+
+skinparam participant {
+    backgroundColor ccc
+  borderColor aaa
+    fontColor 000
+  fontName Verdana
+  fontSize 11
+  stereotypeFontColor 333
+  stereotypeFontSize 11
+}
+
+skinparam collections {
+    backgroundColor ccc
+  borderColor aaa
+    fontColor 000
+  fontName Verdana
+  fontSize 11
+  stereotypeFontColor 333
+  stereotypeFontSize 11
+}
+
+skinparam SequenceBox{
+    backgroundColor e0e0e0
+  borderColor cccccc
+    fontColor 000
+  fontName Verdana
+  fontSize 11
+  stereotypeFontColor 333
+  stereotypeFontSize 11
+}
+
+
+skinparam interface {
+    backgroundColor CC0033
+  borderColor AA0033
+    fontColor 000
+  fontName Verdana
+  fontSize 11
+  stereotypeFontColor 333
+  stereotypeFontSize 11
+}
+
+skinparam component {
+    backgroundColor ccc
+  borderColor aaa
+    fontColor 000
+  fontName Verdana
+  fontSize 11
+  stereotypeFontColor 333
+  stereotypeFontSize 11
+}
+
+skinparam node {
+    backgroundColor ccc
+  borderColor aaa
+    fontColor 000
+  fontName Verdana
+  fontSize 11
+  stereotypeFontColor 333
+  stereotypeFontSize 11
+}
+
+skinparam database {
+    backgroundColor ccc
+  borderColor aaa
+    fontColor 000
+  fontName Verdana
+  fontSize 11
+  stereotypeFontColor 333
+  stereotypeFontSize 11
+}
+
+skinparam queue {
+    backgroundColor ccc
+  borderColor aaa
+    fontColor 000
+  fontName Verdana
+  fontSize 11
+  stereotypeFontColor 333
+  stereotypeFontSize 11
+}
+
+
+skinparam usecase {
+    backgroundColor ccc
+  borderColor aaa
+    fontColor 000
+  fontName Verdana
+  fontSize 11
+  stereotypeFontColor 333
+  stereotypeFontSize 11
+    arrowColor 000
+  arrowFontName Verdana
+  arrowFontColor 333
+  arrowFontSize 11
+}
+
+skinparam activity {
+    backgroundColor ccc
+  borderColor aaa
+    fontColor 000
+  fontName Verdana
+  fontSize 11
+  stereotypeFontColor 333
+  stereotypeFontSize 11
+    arrowColor 000
+  arrowFontName Verdana
+  arrowFontColor 333
+  arrowFontSize 11
+}
+
+skinparam sequence {
+    fontColor 000
+  fontName Verdana
+  fontSize 11
+  stereotypeFontColor 333
+  stereotypeFontSize 11
+    arrowColor 000
+  arrowFontName Verdana
+  arrowFontColor 333
+  arrowFontSize 11
+
+  lifeLineBorderColor CC0033
+  lifeLineBackgroundColor e0e0e0
+}
+
+skinparam boundary {
+    backgroundColor CC0033
+  borderColor AA0033
+    fontColor 000
+  fontName Verdana
+  fontSize 11
+  stereotypeFontColor 333
+  stereotypeFontSize 11
+}
+
+skinparam control {
+    backgroundColor CC0033
+  borderColor AA0033
+    fontColor 000
+  fontName Verdana
+  fontSize 11
+  stereotypeFontColor 333
+  stereotypeFontSize 11
+}
+
+skinparam entity {
+    backgroundColor CC0033
+  borderColor AA0033
+    fontColor 000
+  fontName Verdana
+  fontSize 11
+  stereotypeFontColor 333
+  stereotypeFontSize 11
+}
+
+
+skinparam state {
+    backgroundColor ccc
+  borderColor aaa
+    fontColor 000
+  fontName Verdana
+  fontSize 11
+  stereotypeFontColor 333
+  stereotypeFontSize 11
+    arrowColor 000
+  arrowFontName Verdana
+  arrowFontColor 333
+  arrowFontSize 11
+  startColor CC0033
+  endColor AA0033
+}
+
+
+skinparam object {
+    backgroundColor ccc
+  borderColor aaa
+    fontColor 000
+  fontName Verdana
+  fontSize 11
+  stereotypeFontColor 333
+  stereotypeFontSize 11
+    arrowColor 000
+  arrowFontName Verdana
+  arrowFontColor 333
+  arrowFontSize 11
+}
+
+
+skinparam note {
+    backgroundColor CC0033
+  borderColor AA0033
+    fontColor 000
+  fontName Verdana
+  fontSize 11
+  stereotypeFontColor 333
+  stereotypeFontSize 11
+}
+
+skinparam cloud {
+    backgroundColor ccc
+  borderColor aaa
+    fontColor 000
+  fontName Verdana
+  fontSize 11
+  stereotypeFontColor 333
+  stereotypeFontSize 11
+    arrowColor 000
+  arrowFontName Verdana
+  arrowFontColor 333
+  arrowFontSize 11
+}
+
+skinparam rectangle {
+    backgroundColor ccc
+  borderColor aaa
+    fontColor 000
+  fontName Verdana
+  fontSize 11
+  stereotypeFontColor 333
+  stereotypeFontSize 11
+}
+
+skinparam storage {
+    backgroundColor ccc
+  borderColor aaa
+    fontColor 000
+  fontName Verdana
+  fontSize 11
+  stereotypeFontColor 333
+  stereotypeFontSize 11
+}
+
+start
+	:Рассчитанные параметры;
+  -> Результат работы модели объекта;
+
+  :Найти зависимые элементы \nформы или свойства;
+  -> Зависимость определяется 
+  как составом входящих параметров
+  функции состояния, так и параметрами, 
+  определяющими значения свойств элемента;
+
+repeat
+  :Выбрать элемент по порядку;
+  -> Порядок элемента может определяться,
+  если элемент входит 
+  в различные группировки;
+    if (Это свойство?) then (Да)
+      :Установить \nзначение свойства;
+	  -> Не все свойства 
+	  можно установить!;
+
+    else (Нет)
+	  :Определить состав \nи значения свойств элемента;
+    endif
+
+    ->;
+
+repeat while (Следующий элемент?) is (да) not (нет)
+
+stop
+@enduml
+
+PlantUML version 1.2022.6beta5(Unknown compile time)
+(GPL source distribution)
+Java Runtime: Java(TM) SE Runtime Environment
+JVM: Java HotSpot(TM) 64-Bit Server VM
+Default Encoding: UTF-8
+Language: en
+Country: US
+--></g></svg>
