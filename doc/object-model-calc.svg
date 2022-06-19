@@ -1,0 +1,350 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?><svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" contentStyleType="text/css" height="632px" preserveAspectRatio="none" style="width:530px;height:632px;background:#FFFFFF;" version="1.1" viewBox="0 0 530 632" width="530px" zoomAndPan="magnify"><defs/><g><ellipse cx="202" cy="20" fill="#222222" rx="10" ry="10" style="stroke:#222222;stroke-width:1.0;"/><rect fill="#CCCCCC" height="32.8047" rx="12.5" ry="12.5" style="stroke:#AAAAAA;stroke-width:0.5;" width="167" x="118.5" y="50"/><text fill="#000000" font-family="Verdana" font-size="11" lengthAdjust="spacing" textLength="147" x="128.5" y="70.2104">Измененные параметры</text><rect fill="#CCCCCC" height="32.8047" rx="12.5" ry="12.5" style="stroke:#AAAAAA;stroke-width:0.5;" width="196" x="104" y="181.0083"/><text fill="#000000" font-family="Verdana" font-size="11" lengthAdjust="spacing" textLength="176" x="114" y="201.2188">Найти зависимые параметры</text><rect fill="#CCCCCC" height="32.8047" rx="12.5" ry="12.5" style="stroke:#AAAAAA;stroke-width:0.5;" width="256" x="74" y="280.8213"/><text fill="#000000" font-family="Verdana" font-size="11" lengthAdjust="spacing" textLength="236" x="84" y="301.0317">Выбрать первый параметр по порядку</text><polygon fill="#CCCCCC" points="142,346.8213,262,346.8213,274,358.8213,262,370.8213,142,370.8213,130,358.8213,142,346.8213" style="stroke:#AAAAAA;stroke-width:0.5;"/><text fill="#000000" font-family="Verdana" font-size="11" lengthAdjust="spacing" textLength="120" x="142" y="362.6294">Параметр изменен?</text><text fill="#333333" font-family="Verdana" font-size="11" lengthAdjust="spacing" textLength="16" x="114" y="356.2271">Да</text><text fill="#333333" font-family="Verdana" font-size="11" lengthAdjust="spacing" textLength="23" x="274" y="356.2271">Нет</text><rect fill="#CCCCCC" height="32.8047" rx="12.5" ry="12.5" style="stroke:#AAAAAA;stroke-width:0.5;" width="111" x="52.25" y="380.8213"/><text fill="#000000" font-family="Verdana" font-size="11" lengthAdjust="spacing" textLength="91" x="62.25" y="401.0317">При изменении</text><rect fill="#CCCCCC" height="32.8047" rx="12.5" ry="12.5" style="stroke:#AAAAAA;stroke-width:0.5;" width="226" x="183.25" y="380.8213"/><text fill="#000000" font-family="Verdana" font-size="11" lengthAdjust="spacing" textLength="206" x="193.25" y="401.0317">Определить значение параметра</text><polygon fill="#CCCCCC" points="202,419.626,214,431.626,202,443.626,190,431.626,202,419.626" style="stroke:#AAAAAA;stroke-width:0.5;"/><text fill="#333333" font-family="Verdana" font-size="11" lengthAdjust="spacing" textLength="173" x="10" y="416.2271">Возможно будут добавлены</text><text fill="#333333" font-family="Verdana" font-size="11" lengthAdjust="spacing" textLength="176" x="14" y="429.0317">еще измененные параметры</text><polygon fill="#CCCCCC" points="202,137.0083,214,149.0083,202,161.0083,190,149.0083,202,137.0083" style="stroke:#AAAAAA;stroke-width:0.5;"/><polygon fill="#CCCCCC" points="147,463.626,257,463.626,269,489.2354,257,514.8447,147,514.8447,135,489.2354,147,463.626" style="stroke:#AAAAAA;stroke-width:0.5;"/><text fill="#333333" font-family="Verdana" font-size="11" lengthAdjust="spacing" textLength="22" x="206" y="525.0552">нет</text><text fill="#000000" font-family="Verdana" font-size="11" lengthAdjust="spacing" textLength="106" x="147" y="473.8364">Есть измененные</text><text fill="#000000" font-family="Verdana" font-size="11" lengthAdjust="spacing" textLength="21" x="147" y="486.6411">или</text><text fill="#000000" font-family="Verdana" font-size="11" lengthAdjust="spacing" textLength="102" x="147" y="499.4458">необработанные</text><text fill="#000000" font-family="Verdana" font-size="11" lengthAdjust="spacing" textLength="73" x="147" y="512.2505">параметры?</text><text fill="#333333" font-family="Verdana" font-size="11" lengthAdjust="spacing" textLength="16" x="269" y="486.6411">да</text><rect fill="#CCCCCC" height="32.8047" rx="12.5" ry="12.5" style="stroke:#AAAAAA;stroke-width:0.5;" width="175" x="114.5" y="546.5552"/><text fill="#000000" font-family="Verdana" font-size="11" lengthAdjust="spacing" textLength="155" x="124.5" y="566.7656">Рассчитанные параметры</text><ellipse cx="202" cy="610.3599" rx="11" ry="11" style="stroke:#222222;stroke-width:1.0;fill:none;"/><ellipse cx="202" cy="610.3599" fill="#222222" rx="6" ry="6" style="stroke:#111111;stroke-width:1.0;"/><line style="stroke:#000000;stroke-width:1.0;" x1="202" x2="202" y1="30" y2="50"/><polygon fill="#000000" points="198,40,202,50,206,40,202,44" style="stroke:#000000;stroke-width:1.0;"/><line style="stroke:#000000;stroke-width:1.0;" x1="202" x2="202" y1="213.813" y2="280.8213"/><polygon fill="#000000" points="198,270.8213,202,280.8213,206,270.8213,202,274.8213" style="stroke:#000000;stroke-width:1.0;"/><text fill="#333333" font-family="Verdana" font-size="11" lengthAdjust="spacing" textLength="227" x="206" y="235.1177">Измененные и зависимые параметры</text><text fill="#333333" font-family="Verdana" font-size="11" lengthAdjust="spacing" textLength="286" x="206" y="247.9224">рассчитываются в общей последовательности</text><text fill="#333333" font-family="Verdana" font-size="11" lengthAdjust="spacing" textLength="69" x="206" y="260.7271">по порядку</text><line style="stroke:#000000;stroke-width:1.0;" x1="130" x2="107.75" y1="358.8213" y2="358.8213"/><line style="stroke:#000000;stroke-width:1.0;" x1="107.75" x2="107.75" y1="358.8213" y2="380.8213"/><polygon fill="#000000" points="103.75,370.8213,107.75,380.8213,111.75,370.8213,107.75,374.8213" style="stroke:#000000;stroke-width:1.0;"/><line style="stroke:#000000;stroke-width:1.0;" x1="274" x2="296.25" y1="358.8213" y2="358.8213"/><line style="stroke:#000000;stroke-width:1.0;" x1="296.25" x2="296.25" y1="358.8213" y2="380.8213"/><polygon fill="#000000" points="292.25,370.8213,296.25,380.8213,300.25,370.8213,296.25,374.8213" style="stroke:#000000;stroke-width:1.0;"/><line style="stroke:#000000;stroke-width:1.0;" x1="107.75" x2="107.75" y1="413.626" y2="431.626"/><line style="stroke:#000000;stroke-width:1.0;" x1="107.75" x2="190" y1="431.626" y2="431.626"/><polygon fill="#000000" points="180,427.626,190,431.626,180,435.626,184,431.626" style="stroke:#000000;stroke-width:1.0;"/><line style="stroke:#000000;stroke-width:1.0;" x1="296.25" x2="296.25" y1="413.626" y2="431.626"/><line style="stroke:#000000;stroke-width:1.0;" x1="296.25" x2="214" y1="431.626" y2="431.626"/><polygon fill="#000000" points="224,427.626,214,431.626,224,435.626,220,431.626" style="stroke:#000000;stroke-width:1.0;"/><line style="stroke:#000000;stroke-width:1.0;" x1="202" x2="202" y1="313.626" y2="346.8213"/><polygon fill="#000000" points="198,336.8213,202,346.8213,206,336.8213,202,340.8213" style="stroke:#000000;stroke-width:1.0;"/><line style="stroke:#000000;stroke-width:1.0;" x1="202" x2="202" y1="161.0083" y2="181.0083"/><polygon fill="#000000" points="198,171.0083,202,181.0083,206,171.0083,202,175.0083" style="stroke:#000000;stroke-width:1.0;"/><line style="stroke:#000000;stroke-width:1.0;" x1="269" x2="504" y1="489.2354" y2="489.2354"/><polygon fill="#000000" points="500,326.8213,504,316.8213,508,326.8213,504,322.8213" style="stroke:#000000;stroke-width:1.0;"/><line style="stroke:#000000;stroke-width:1.0;" x1="504" x2="504" y1="149.0083" y2="489.2354"/><line style="stroke:#000000;stroke-width:1.0;" x1="504" x2="214" y1="149.0083" y2="149.0083"/><polygon fill="#000000" points="224,145.0083,214,149.0083,224,153.0083,220,149.0083" style="stroke:#000000;stroke-width:1.0;"/><line style="stroke:#000000;stroke-width:1.0;" x1="202" x2="202" y1="443.626" y2="463.626"/><polygon fill="#000000" points="198,453.626,202,463.626,206,453.626,202,457.626" style="stroke:#000000;stroke-width:1.0;"/><line style="stroke:#000000;stroke-width:1.0;" x1="202" x2="202" y1="82.8047" y2="137.0083"/><polygon fill="#000000" points="198,127.0083,202,137.0083,206,127.0083,202,131.0083" style="stroke:#000000;stroke-width:1.0;"/><text fill="#333333" font-family="Verdana" font-size="11" lengthAdjust="spacing" textLength="142" x="206" y="104.1094">Изменения параметров</text><text fill="#333333" font-family="Verdana" font-size="11" lengthAdjust="spacing" textLength="92" x="206" y="116.9141">из интерфейса</text><line style="stroke:#000000;stroke-width:1.0;" x1="202" x2="202" y1="514.8447" y2="546.5552"/><polygon fill="#000000" points="198,536.5552,202,546.5552,206,536.5552,202,540.5552" style="stroke:#000000;stroke-width:1.0;"/><line style="stroke:#000000;stroke-width:1.0;" x1="202" x2="202" y1="579.3599" y2="599.3599"/><polygon fill="#000000" points="198,589.3599,202,599.3599,206,589.3599,202,593.3599" style="stroke:#000000;stroke-width:1.0;"/><!--MD5=[0b4b5bca1fff30004d715985ac178770]
+@startuml
+!theme reddress-lightred
+
+start
+	:Измененные параметры;
+  -> Изменения параметров \nиз интерфейса;
+repeat
+
+  :Найти зависимые параметры;
+  -> Измененные и зависимые параметры
+  рассчитываются в общей последовательности
+  по порядку;
+  :Выбрать первый параметр по порядку;
+
+    if (Параметр изменен?) then (Да)
+      :При изменении;
+	  -> Возможно будут добавлены
+	   еще измененные параметры;
+
+    else (Нет)
+	  :Определить значение параметра;
+    endif
+
+    ->;
+
+repeat while (Есть измененные \nили \nнеобработанные \nпараметры?) is (да) not (нет)
+
+	:Рассчитанные параметры;
+
+stop
+@enduml
+
+@startuml
+
+
+
+skinparam stereotypeCBackgroundColor AA0033
+skinparam backgroundColor fff
+
+
+
+
+
+
+
+skinparam circledCharacter {
+  radius 8
+  fontSize 11
+  fontName Verdana
+}
+
+skinparam class {
+    backgroundColor ccc
+  borderColor aaa
+    fontColor 000
+  fontName Verdana
+  fontSize 11
+  stereotypeFontColor 333
+  stereotypeFontSize 11
+    arrowColor 000
+  arrowFontName Verdana
+  arrowFontColor 333
+  arrowFontSize 11
+
+  attributeFontColor 333
+  attributeFontSize 11
+  attributeIconSize 11
+}
+
+
+skinparam actor {
+    backgroundColor CC0033
+  borderColor AA0033
+    fontColor 000
+  fontName Verdana
+  fontSize 11
+  stereotypeFontColor 333
+  stereotypeFontSize 11
+}
+
+skinparam participant {
+    backgroundColor ccc
+  borderColor aaa
+    fontColor 000
+  fontName Verdana
+  fontSize 11
+  stereotypeFontColor 333
+  stereotypeFontSize 11
+}
+
+skinparam collections {
+    backgroundColor ccc
+  borderColor aaa
+    fontColor 000
+  fontName Verdana
+  fontSize 11
+  stereotypeFontColor 333
+  stereotypeFontSize 11
+}
+
+skinparam SequenceBox{
+    backgroundColor e0e0e0
+  borderColor cccccc
+    fontColor 000
+  fontName Verdana
+  fontSize 11
+  stereotypeFontColor 333
+  stereotypeFontSize 11
+}
+
+
+skinparam interface {
+    backgroundColor CC0033
+  borderColor AA0033
+    fontColor 000
+  fontName Verdana
+  fontSize 11
+  stereotypeFontColor 333
+  stereotypeFontSize 11
+}
+
+skinparam component {
+    backgroundColor ccc
+  borderColor aaa
+    fontColor 000
+  fontName Verdana
+  fontSize 11
+  stereotypeFontColor 333
+  stereotypeFontSize 11
+}
+
+skinparam node {
+    backgroundColor ccc
+  borderColor aaa
+    fontColor 000
+  fontName Verdana
+  fontSize 11
+  stereotypeFontColor 333
+  stereotypeFontSize 11
+}
+
+skinparam database {
+    backgroundColor ccc
+  borderColor aaa
+    fontColor 000
+  fontName Verdana
+  fontSize 11
+  stereotypeFontColor 333
+  stereotypeFontSize 11
+}
+
+skinparam queue {
+    backgroundColor ccc
+  borderColor aaa
+    fontColor 000
+  fontName Verdana
+  fontSize 11
+  stereotypeFontColor 333
+  stereotypeFontSize 11
+}
+
+
+skinparam usecase {
+    backgroundColor ccc
+  borderColor aaa
+    fontColor 000
+  fontName Verdana
+  fontSize 11
+  stereotypeFontColor 333
+  stereotypeFontSize 11
+    arrowColor 000
+  arrowFontName Verdana
+  arrowFontColor 333
+  arrowFontSize 11
+}
+
+skinparam activity {
+    backgroundColor ccc
+  borderColor aaa
+    fontColor 000
+  fontName Verdana
+  fontSize 11
+  stereotypeFontColor 333
+  stereotypeFontSize 11
+    arrowColor 000
+  arrowFontName Verdana
+  arrowFontColor 333
+  arrowFontSize 11
+}
+
+skinparam sequence {
+    fontColor 000
+  fontName Verdana
+  fontSize 11
+  stereotypeFontColor 333
+  stereotypeFontSize 11
+    arrowColor 000
+  arrowFontName Verdana
+  arrowFontColor 333
+  arrowFontSize 11
+
+  lifeLineBorderColor CC0033
+  lifeLineBackgroundColor e0e0e0
+}
+
+skinparam boundary {
+    backgroundColor CC0033
+  borderColor AA0033
+    fontColor 000
+  fontName Verdana
+  fontSize 11
+  stereotypeFontColor 333
+  stereotypeFontSize 11
+}
+
+skinparam control {
+    backgroundColor CC0033
+  borderColor AA0033
+    fontColor 000
+  fontName Verdana
+  fontSize 11
+  stereotypeFontColor 333
+  stereotypeFontSize 11
+}
+
+skinparam entity {
+    backgroundColor CC0033
+  borderColor AA0033
+    fontColor 000
+  fontName Verdana
+  fontSize 11
+  stereotypeFontColor 333
+  stereotypeFontSize 11
+}
+
+
+skinparam state {
+    backgroundColor ccc
+  borderColor aaa
+    fontColor 000
+  fontName Verdana
+  fontSize 11
+  stereotypeFontColor 333
+  stereotypeFontSize 11
+    arrowColor 000
+  arrowFontName Verdana
+  arrowFontColor 333
+  arrowFontSize 11
+  startColor CC0033
+  endColor AA0033
+}
+
+
+skinparam object {
+    backgroundColor ccc
+  borderColor aaa
+    fontColor 000
+  fontName Verdana
+  fontSize 11
+  stereotypeFontColor 333
+  stereotypeFontSize 11
+    arrowColor 000
+  arrowFontName Verdana
+  arrowFontColor 333
+  arrowFontSize 11
+}
+
+
+skinparam note {
+    backgroundColor CC0033
+  borderColor AA0033
+    fontColor 000
+  fontName Verdana
+  fontSize 11
+  stereotypeFontColor 333
+  stereotypeFontSize 11
+}
+
+skinparam cloud {
+    backgroundColor ccc
+  borderColor aaa
+    fontColor 000
+  fontName Verdana
+  fontSize 11
+  stereotypeFontColor 333
+  stereotypeFontSize 11
+    arrowColor 000
+  arrowFontName Verdana
+  arrowFontColor 333
+  arrowFontSize 11
+}
+
+skinparam rectangle {
+    backgroundColor ccc
+  borderColor aaa
+    fontColor 000
+  fontName Verdana
+  fontSize 11
+  stereotypeFontColor 333
+  stereotypeFontSize 11
+}
+
+skinparam storage {
+    backgroundColor ccc
+  borderColor aaa
+    fontColor 000
+  fontName Verdana
+  fontSize 11
+  stereotypeFontColor 333
+  stereotypeFontSize 11
+}
+
+start
+	:Измененные параметры;
+  -> Изменения параметров \nиз интерфейса;
+repeat
+
+  :Найти зависимые параметры;
+  -> Измененные и зависимые параметры
+  рассчитываются в общей последовательности
+  по порядку;
+  :Выбрать первый параметр по порядку;
+
+    if (Параметр изменен?) then (Да)
+      :При изменении;
+	  -> Возможно будут добавлены
+	   еще измененные параметры;
+
+    else (Нет)
+	  :Определить значение параметра;
+    endif
+
+    ->;
+
+repeat while (Есть измененные \nили \nнеобработанные \nпараметры?) is (да) not (нет)
+
+	:Рассчитанные параметры;
+
+stop
+@enduml
+
+PlantUML version 1.2022.6beta5(Unknown compile time)
+(GPL source distribution)
+Java Runtime: Java(TM) SE Runtime Environment
+JVM: Java HotSpot(TM) 64-Bit Server VM
+Default Encoding: UTF-8
+Language: en
+Country: US
+--></g></svg>
