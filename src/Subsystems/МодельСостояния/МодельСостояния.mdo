@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<mdclass:Subsystem xmlns:mdclass="http://g5.1c.ru/v8/dt/metadata/mdclass" uuid="dd60178e-dec6-4f46-8ccc-33e3cb73c10f">
+<mdclass:Subsystem xmlns:mdclass="http://g5.1c.ru/v8/dt/metadata/mdclass" uuid="337a455b-8612-42f8-9f93-ecf1c55c5c53">
   <name>МодельСостояния</name>
   <synonym>
     <key>ru</key>
