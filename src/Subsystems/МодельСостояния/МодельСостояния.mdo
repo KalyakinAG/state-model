@@ -9,7 +9,8 @@
   <includeInCommandInterface>true</includeInCommandInterface>
   <content>DataProcessor.МодельСостояния</content>
   <content>CommonModule.РаботаСМодельюОбъекта</content>
-  <content>CommonModule.РаботаСМодельюОбъектаКлиентСервер</content>
-  <content>CommonModule.РаботаСМодельюФормы</content>
   <content>CommonModule.РаботаСМодельюФормыКлиентСервер</content>
+  <content>CommonModule.РаботаСМодельюФормы</content>
+  <content>CommonModule.РаботаСМодельюОбъектаКлиентСервер</content>
+  <content>CommonModule.РаботаСМодельюСостояния</content>
 </mdclass:Subsystem>
