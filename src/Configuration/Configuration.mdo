@@ -22,7 +22,7 @@
   <configurationExtensionPurpose>AddOn</configurationExtensionPurpose>
   <defaultRunMode>ManagedApplication</defaultRunMode>
   <scriptVariant>Russian</scriptVariant>
-  <version>1.0.0.2</version>
+  <version>1.0.0.3</version>
   <languages uuid="68e1ecad-276e-4424-993b-a294eafe7f0b">
     <name>Русский</name>
     <objectBelonging>Adopted</objectBelonging>
