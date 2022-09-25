@@ -13,4 +13,6 @@
   <content>CommonModule.РаботаСМодельюФормы</content>
   <content>CommonModule.РаботаСМодельюОбъектаКлиентСервер</content>
   <content>CommonModule.РаботаСМодельюСостояния</content>
+  <content>CommonModule.МодельКонструкторМоделиСостояния</content>
+  <content>CommonModule.РаботаСМодельюФормыКлиент</content>
 </mdclass:Subsystem>
