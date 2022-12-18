@@ -22,7 +22,7 @@
   <configurationExtensionPurpose>AddOn</configurationExtensionPurpose>
   <defaultRunMode>ManagedApplication</defaultRunMode>
   <scriptVariant>Russian</scriptVariant>
-  <version>1.0.0.3</version>
+  <version>1.0.0.4</version>
   <languages uuid="68e1ecad-276e-4424-993b-a294eafe7f0b">
     <name>Русский</name>
     <objectBelonging>Adopted</objectBelonging>
@@ -37,6 +37,7 @@
   <commonModules>CommonModule.РаботаСМодельюФормы</commonModules>
   <commonModules>CommonModule.РаботаСМодельюФормыКлиентСервер</commonModules>
   <commonModules>CommonModule.РаботаСМодельюСостояния</commonModules>
+  <commonModules>CommonModule.МодельКонструкторМоделиСостояния</commonModules>
   <commonModules>CommonModule.РаботаСМодельюФормыКлиент</commonModules>
   <dataProcessors>DataProcessor.МодельСостояния</dataProcessors>
 </mdclass:Configuration>
