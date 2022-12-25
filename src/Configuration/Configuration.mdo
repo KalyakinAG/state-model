@@ -1,10 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <mdclass:Configuration xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:mdclass="http://g5.1c.ru/v8/dt/metadata/mdclass" xmlns:mdclassExtension="http://g5.1c.ru/v8/dt/metadata/mdclass/extension" uuid="f5496f1f-e760-4d38-bb79-df92e41cec76">
   <name>StateModel</name>
-  <synonym>
-    <key>ru</key>
-    <value>State model</value>
-  </synonym>
   <comment>Модель состояния - DSL модели объекта и формы, поддержка шаблона MVC</comment>
   <objectBelonging>Adopted</objectBelonging>
   <extension xsi:type="mdclassExtension:ConfigurationExtension">
@@ -22,7 +18,7 @@
   <configurationExtensionPurpose>AddOn</configurationExtensionPurpose>
   <defaultRunMode>ManagedApplication</defaultRunMode>
   <scriptVariant>Russian</scriptVariant>
-  <version>1.0.0.4</version>
+  <version>1.0.0.6</version>
   <languages uuid="68e1ecad-276e-4424-993b-a294eafe7f0b">
     <name>Русский</name>
     <objectBelonging>Adopted</objectBelonging>
@@ -35,9 +31,9 @@
   <commonModules>CommonModule.РаботаСМодельюОбъекта</commonModules>
   <commonModules>CommonModule.РаботаСМодельюОбъектаКлиентСервер</commonModules>
   <commonModules>CommonModule.РаботаСМодельюФормы</commonModules>
-  <commonModules>CommonModule.РаботаСМодельюФормыКлиентСервер</commonModules>
   <commonModules>CommonModule.РаботаСМодельюСостояния</commonModules>
   <commonModules>CommonModule.МодельКонструкторМоделиСостояния</commonModules>
   <commonModules>CommonModule.РаботаСМодельюФормыКлиент</commonModules>
+  <commonModules>CommonModule.РаботаСМодельюФормыКлиентСервер</commonModules>
   <dataProcessors>DataProcessor.МодельСостояния</dataProcessors>
 </mdclass:Configuration>
