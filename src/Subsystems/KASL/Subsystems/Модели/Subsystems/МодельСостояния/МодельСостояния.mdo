@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<mdclass:Subsystem xmlns:mdclass="http://g5.1c.ru/v8/dt/metadata/mdclass" uuid="337a455b-8612-42f8-9f93-ecf1c55c5c53">
+  <name>МодельСостояния</name>
+  <synonym>
+    <key>ru</key>
+    <value>Модель состояния</value>
+  </synonym>
+  <includeHelpInContents>true</includeHelpInContents>
+  <content>DataProcessor.МодельСостояния</content>
+  <content>CommonModule.РаботаСМодельюОбъекта</content>
+  <content>CommonModule.РаботаСМодельюФормыКлиентСервер</content>
+  <content>CommonModule.РаботаСМодельюФормы</content>
+  <content>CommonModule.РаботаСМодельюОбъектаКлиентСервер</content>
+  <content>CommonModule.РаботаСМодельюСостояния</content>
+  <content>CommonModule.РаботаСМодельюФормыКлиент</content>
+  <parentSubsystem>Subsystem.KASL.Subsystem.Модели</parentSubsystem>
+</mdclass:Subsystem>

@@ -1,6 +1,10 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <mdclass:Configuration xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:mdclass="http://g5.1c.ru/v8/dt/metadata/mdclass" xmlns:mdclassExtension="http://g5.1c.ru/v8/dt/metadata/mdclass/extension" uuid="f5496f1f-e760-4d38-bb79-df92e41cec76">
-  <name>StateModel</name>
+  <name>МодельСостояния</name>
+  <synonym>
+    <key>ru</key>
+    <value>Модель состояния</value>
+  </synonym>
   <comment>Модель состояния - DSL модели объекта и формы, поддержка шаблона MVC</comment>
   <objectBelonging>Adopted</objectBelonging>
   <extension xsi:type="mdclassExtension:ConfigurationExtension">
@@ -13,12 +17,12 @@
   <containedObjects classId="51f2d5d8-ea4d-4064-8892-82951750031e" objectId="3bccbd85-ffbf-44d0-9e58-6669ee745fdf"/>
   <containedObjects classId="e68182ea-4237-4383-967f-90c1e3370bc7" objectId="a035cfe4-cc7f-4cae-8657-34828093ca2a"/>
   <containedObjects classId="fb282519-d103-4dd3-bc12-cb271d631dfc" objectId="6226ee6a-ae76-4b80-a992-e7cb25bb71fe"/>
-  <namePrefix>sm</namePrefix>
-  <configurationExtensionCompatibilityMode>8.3.21</configurationExtensionCompatibilityMode>
+  <namePrefix>KASL</namePrefix>
+  <configurationExtensionCompatibilityMode>8.3.23</configurationExtensionCompatibilityMode>
   <configurationExtensionPurpose>AddOn</configurationExtensionPurpose>
   <defaultRunMode>ManagedApplication</defaultRunMode>
   <scriptVariant>Russian</scriptVariant>
-  <version>1.0.0.6</version>
+  <version>1.0.0.7</version>
   <languages uuid="68e1ecad-276e-4424-993b-a294eafe7f0b">
     <name>Русский</name>
     <objectBelonging>Adopted</objectBelonging>
@@ -27,11 +31,12 @@
     </extension>
     <languageCode>ru</languageCode>
   </languages>
+  <subsystems>Subsystem.KASL</subsystems>
   <subsystems>Subsystem.МодельСостояния</subsystems>
   <commonModules>CommonModule.РаботаСМодельюОбъекта</commonModules>
   <commonModules>CommonModule.РаботаСМодельюОбъектаКлиентСервер</commonModules>
-  <commonModules>CommonModule.РаботаСМодельюФормы</commonModules>
   <commonModules>CommonModule.РаботаСМодельюСостояния</commonModules>
+  <commonModules>CommonModule.РаботаСМодельюФормы</commonModules>
   <commonModules>CommonModule.МодельКонструкторМоделиСостояния</commonModules>
   <commonModules>CommonModule.РаботаСМодельюФормыКлиент</commonModules>
   <commonModules>CommonModule.РаботаСМодельюФормыКлиентСервер</commonModules>
