@@ -17,12 +17,12 @@
   <containedObjects classId="51f2d5d8-ea4d-4064-8892-82951750031e" objectId="3bccbd85-ffbf-44d0-9e58-6669ee745fdf"/>
   <containedObjects classId="e68182ea-4237-4383-967f-90c1e3370bc7" objectId="a035cfe4-cc7f-4cae-8657-34828093ca2a"/>
   <containedObjects classId="fb282519-d103-4dd3-bc12-cb271d631dfc" objectId="6226ee6a-ae76-4b80-a992-e7cb25bb71fe"/>
-  <namePrefix>KASL</namePrefix>
+  <namePrefix>БКА_</namePrefix>
   <configurationExtensionCompatibilityMode>8.3.23</configurationExtensionCompatibilityMode>
   <configurationExtensionPurpose>AddOn</configurationExtensionPurpose>
   <defaultRunMode>ManagedApplication</defaultRunMode>
   <scriptVariant>Russian</scriptVariant>
-  <version>1.0.0.7</version>
+  <version>2.0.0.1</version>
   <languages uuid="68e1ecad-276e-4424-993b-a294eafe7f0b">
     <name>Русский</name>
     <objectBelonging>Adopted</objectBelonging>
@@ -31,13 +31,12 @@
     </extension>
     <languageCode>ru</languageCode>
   </languages>
-  <subsystems>Subsystem.KASL</subsystems>
   <subsystems>Subsystem.МодельСостояния</subsystems>
   <commonModules>CommonModule.РаботаСМодельюОбъекта</commonModules>
   <commonModules>CommonModule.РаботаСМодельюОбъектаКлиентСервер</commonModules>
   <commonModules>CommonModule.РаботаСМодельюСостояния</commonModules>
+  <commonModules>CommonModule.РаботаСМодельюСостоянияКлиентСервер</commonModules>
   <commonModules>CommonModule.РаботаСМодельюФормы</commonModules>
-  <commonModules>CommonModule.МодельКонструкторМоделиСостояния</commonModules>
   <commonModules>CommonModule.РаботаСМодельюФормыКлиент</commonModules>
   <commonModules>CommonModule.РаботаСМодельюФормыКлиентСервер</commonModules>
   <dataProcessors>DataProcessor.МодельСостояния</dataProcessors>
