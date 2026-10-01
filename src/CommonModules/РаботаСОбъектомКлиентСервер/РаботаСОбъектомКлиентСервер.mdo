@@ -1,9 +1,9 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<mdclass:CommonModule xmlns:mdclass="http://g5.1c.ru/v8/dt/metadata/mdclass" uuid="8adb5c1e-7977-443b-88a4-e70ad6dbb0ae">
-  <name>РаботаСМодельюФормыКлиентСервер</name>
+<mdclass:CommonModule xmlns:mdclass="http://g5.1c.ru/v8/dt/metadata/mdclass" uuid="cf78299b-1c20-4d93-aef5-1a6b3989fa9f">
+  <name>РаботаСОбъектомКлиентСервер</name>
   <synonym>
     <key>ru</key>
-    <value>Работа с моделью формы</value>
+    <value>Работа с моделю объекта</value>
   </synonym>
   <clientManagedApplication>true</clientManagedApplication>
   <server>true</server>

@@ -22,7 +22,7 @@
   <configurationExtensionPurpose>AddOn</configurationExtensionPurpose>
   <defaultRunMode>ManagedApplication</defaultRunMode>
   <scriptVariant>Russian</scriptVariant>
-  <version>2.0.0.1</version>
+  <version>3.0.0.1</version>
   <languages uuid="68e1ecad-276e-4424-993b-a294eafe7f0b">
     <name>Русский</name>
     <objectBelonging>Adopted</objectBelonging>
@@ -32,12 +32,12 @@
     <languageCode>ru</languageCode>
   </languages>
   <subsystems>Subsystem.МодельСостояния</subsystems>
-  <commonModules>CommonModule.РаботаСМодельюОбъекта</commonModules>
-  <commonModules>CommonModule.РаботаСМодельюОбъектаКлиентСервер</commonModules>
   <commonModules>CommonModule.РаботаСМодельюСостояния</commonModules>
   <commonModules>CommonModule.РаботаСМодельюСостоянияКлиентСервер</commonModules>
-  <commonModules>CommonModule.РаботаСМодельюФормы</commonModules>
-  <commonModules>CommonModule.РаботаСМодельюФормыКлиент</commonModules>
-  <commonModules>CommonModule.РаботаСМодельюФормыКлиентСервер</commonModules>
+  <commonModules>CommonModule.РаботаСОбъектом</commonModules>
+  <commonModules>CommonModule.РаботаСОбъектомКлиентСервер</commonModules>
+  <commonModules>CommonModule.РаботаСФормой</commonModules>
+  <commonModules>CommonModule.РаботаСФормойКлиент</commonModules>
+  <commonModules>CommonModule.РаботаСФормойКлиентСервер</commonModules>
   <dataProcessors>DataProcessor.МодельСостояния</dataProcessors>
 </mdclass:Configuration>
